@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//xiaohong1111
+//xiaohong1
 int main()
 {
    int a = 10,b = 20;
